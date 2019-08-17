@@ -3,31 +3,15 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> express, ES6, babel
+> express, ES6, babel, prettirc, eslint, airbnb-config-base, prettrc-eslint, vscode_setting
+
+[상세설명](/sungmun/boilerplate-express/wiki/base-code-format)
 
 ## Usage
 
----
-
-**_express, ES6, babel_**
-
 ```sh
-git checkout -b "base" origin/base
-
 yarn
 ```
-
----
-
-**_express, ES6, babel, prettirc, eslint,airbnb-config-base, prettrc-eslint, vscode_setting, router_**
-
-```sh
-git checkout -b "base-code-format" origin/base-code-format
-
-yarn
-```
-
----
 
 ## Author
 

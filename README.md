@@ -5,27 +5,40 @@
 
 > express, ES6, babel
 
-## Install
+## Usage
+
+---
+
+**_express, ES6, babel_**
 
 ```sh
+git checkout -b "base" origin/base
+
 yarn
 ```
 
-## Usage
+---
+
+**_express, ES6, babel, prettirc, eslint,airbnb-config-base, prettrc-eslint, vscode_setting, router_**
 
 ```sh
-yarn start
+git checkout -b "base-code-format" origin/base-code-format
+
+yarn
 ```
+
+---
 
 ## Author
 
 👤 **sungmun**
 
-* Github: [@sungmun](https://github.com/sungmun)
+- Github: [@sungmun](https://github.com/sungmun)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

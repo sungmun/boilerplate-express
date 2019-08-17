@@ -5,7 +5,7 @@
 
 > express, ES6, babel, prettirc, eslint, airbnb-config-base, prettrc-eslint, vscode_setting
 
-[상세설명](/sungmun/boilerplate-express/wiki/base-code-format)
+[상세설명](https://github.com/sungmun/boilerplate-express/wiki/base-code-format)
 
 ## Usage
 

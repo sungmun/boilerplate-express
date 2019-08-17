@@ -5,6 +5,8 @@
 
 > express, ES6, babel
 
+[상세설명](/sungmun/boilerplate-express/wiki/base-project-structure)
+
 ## Install
 
 ```sh
@@ -21,11 +23,8 @@ yarn start
 
 👤 **sungmun**
 
-* Github: [@sungmun](https://github.com/sungmun)
+- Github: [@sungmun](https://github.com/sungmun)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

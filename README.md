@@ -3,31 +3,15 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> express, ES6, babel
+> express
+
+## **_[필독](https://github.com/sungmun/boilerplate-express/wiki)_** 을 확인해주세요
 
 ## Usage
 
----
-
-**_express, ES6, babel_**
-
 ```sh
-git checkout -b "base" origin/base
-
 yarn
 ```
-
----
-
-**_express, ES6, babel, prettirc, eslint,airbnb-config-base, prettrc-eslint, vscode_setting, router_**
-
-```sh
-git checkout -b "base-code-format" origin/base-code-format
-
-yarn
-```
-
----
 
 ## Author
 

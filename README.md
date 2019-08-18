@@ -7,6 +7,12 @@
 
 ## **_[필독](https://github.com/sungmun/boilerplate-express/wiki)_** 을 확인해주세요
 
+- base
+  - code format
+  - project structure
+- typescript
+  - code format
+
 ## Usage
 
 ```sh

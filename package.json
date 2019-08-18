@@ -6,12 +6,15 @@
   "author": "강성문 <tjdans174@mealant.com>",
   "license": "MIT",
   "dependencies": {
+    "@types/reflect-metadata": "^0.1.0",
     "express": "^4.17.1",
     "reflect-metadata": "^0.1.13",
     "typescript": "^3.5.3"
   },
   "devDependencies": {
     "@types/express": "^4.17.0",
-    "@types/typescript": "^2.0.0"
+    "@types/typescript": "^2.0.0",
+    "tslint-config-airbnb-base": "^0.3.0",
+    "tslint-config-prettier": "^1.18.0"
   }
 }
